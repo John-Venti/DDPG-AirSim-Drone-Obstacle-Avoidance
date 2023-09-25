@@ -29,5 +29,10 @@ opencv-python == 3.2.0.7
 ![image](./images/critic.png)
 ![image](./images/critic_details.png)
 
+# how to use it
+1. run `AirSim` to start the simulation enviroment
+2. run `main.py` to train it
+3. run `test.py` to test it
+
 
 # If you find our work useful for your research, please give us a star!
