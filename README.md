@@ -1,6 +1,7 @@
 # AirSim-Drone-Obstacle-Avoidance
 Using DDPG and ConvLSTM to help drone avoid obstacle in AirSim
-This project is developed based on [Microsoft-Airsim](https://github.com/microsoft/AirSim)
+
+This project is developed based on [Microsoft-Airsim](https://github.com/microsoft/AirSim).
 
 # Requirements
 python == 3.6.2
