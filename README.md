@@ -13,13 +13,13 @@ pillow == 8.4.0
 opencv-python == 3.2.0.7
 
 # Actor-Network
-![image](https://github.com/John-Venti/AirSim-Drone-Obstacle-Avoidance/assets/65962128/a19e98bb-b4f4-4ea2-95cd-a3ce7e4f222c)
-![image](https://github.com/John-Venti/AirSim-Drone-Obstacle-Avoidance/assets/65962128/a47a3224-c72d-449c-92e9-532a3e92454d)
+![image](./images/actor.png)
+![image](./images/actor_details.png)
 
 
 # Critic-Network
-![image](https://github.com/John-Venti/AirSim-Drone-Obstacle-Avoidance/assets/65962128/6d82c5d2-542f-4f37-8ca1-5370c4c228ea)
-![image](https://github.com/John-Venti/AirSim-Drone-Obstacle-Avoidance/assets/65962128/3b920605-e13f-4bc6-a5e9-c720af56bee8)
+![image](./images/critic.png)
+![image](./images/critic_details.png)
 
 
 # If you find our work useful for your research, please give us a star!
