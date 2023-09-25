@@ -14,8 +14,8 @@ np.set_printoptions(precision=3, suppress=True)
 
 def main():
 
-	with tf.device("/cpu:0"):
-	# with tf.device("/gpu:0"):
+	# with tf.device("/cpu:0"):
+	with tf.device("/gpu:0"):
 
 		config = tf.ConfigProto(allow_soft_placement=True)
 		# config.gpu_options.per_process_gpu_memory_fraction = 0.6
