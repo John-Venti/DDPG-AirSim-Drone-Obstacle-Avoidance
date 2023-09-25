@@ -1,5 +1,5 @@
 # AirSim-Drone-Obstacle-Avoidance
-Using DDPG and ConvLSTM to help drone avoid obstacle in AirSim
+Using DDPG and ConvLSTM to control drone to avoid obstacle in AirSim
 
 This project is developed based on [Microsoft-Airsim](https://github.com/microsoft/AirSim), achieving obstacle avoidance in height direction.
 
@@ -45,4 +45,6 @@ opencv-python == 3.2.0.7
 3. run `test.py` to test it
 
 
-# If you find our work useful for your research, please give us a star!
+# If you find my work useful for your research, please give me a star!
+I just do it for fun, so there are certainly many bugs and I didn't finetune it.
+If you hope to do some research based on that, you can contact me and we also could do it together!
