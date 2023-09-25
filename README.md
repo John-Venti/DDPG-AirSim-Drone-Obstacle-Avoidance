@@ -23,7 +23,7 @@ opencv-python == 3.2.0.7
 # Actor-Network
 ![image](./images/actor.png)
 ![image](./images/actor_details.png)
-- batch size 32
+- batch size is 32
 - Input of the image branch is previous 4 moments and current 64x64 depth images
 - Input of the state branch is previous 4 moments and current height states
 - Output of the actor network is current height control instruction
@@ -32,7 +32,7 @@ opencv-python == 3.2.0.7
 # Critic-Network
 ![image](./images/critic.png)
 ![image](./images/critic_details.png)
-- batch size 32
+- batch size is 32
 - Input of the image branch is previous 4 moments and current 64x64 depth images
 - Input of the state branch is previous 4 moments and current height states
 - Input of the action branch is previous 4 moments and current actions
