@@ -46,5 +46,5 @@ opencv-python == 3.2.0.7
 
 
 # If you find my work useful for your research, please give me a star!
-I just did it for fun, so there are certainly many bugs and I didn't finetune it.
+I just did it for a course design task of Artificial Antelligence Network and Control, so there are certainly many bugs and I didn't finetune it.
 If you hope to do some research based on that, you can contact me and we also could do it together!
