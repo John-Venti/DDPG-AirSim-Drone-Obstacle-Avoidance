@@ -20,7 +20,11 @@ pillow == 8.4.0
 
 opencv-python == 3.2.0.7
 
-# Actor-Network
+# Framework
+![image](./images/framework.png)
+
+
+## Actor-Network
 ![image](./images/actor.png)
 ![image](./images/actor_details.png)
 - batch size is 32
@@ -29,7 +33,7 @@ opencv-python == 3.2.0.7
 - Output of the actor network is current height control instruction
 
 
-# Critic-Network
+## Critic-Network
 ![image](./images/critic.png)
 ![image](./images/critic_details.png)
 - batch size is 32
