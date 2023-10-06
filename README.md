@@ -51,4 +51,4 @@ opencv-python == 3.2.0.7
 
 # If you find my work useful for your research, please give me a star!
 I just did it for a course design task of `Artificial Neural Network and Control`, so there are certainly many bugs and I didn't finetune it.
-If you want to do some research based on that, you can contact me and we also could do it together!
+If you want to do some research based on it, you could contact me and we could do it together!
