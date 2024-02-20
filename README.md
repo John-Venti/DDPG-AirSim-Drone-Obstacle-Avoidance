@@ -25,7 +25,7 @@ opencv-python == 3.2.0.7
 
 
 ## Actor-Network
-![image](./images/actor.png)
+![image](./images/actor_net.png)
 ![image](./images/actor_details.png)
 - batch size is 32
 - Input of the image branch is previous 4 moments and current 64x64 depth images
@@ -34,7 +34,7 @@ opencv-python == 3.2.0.7
 
 
 ## Critic-Network
-![image](./images/critic.png)
+![image](./images/critic_net.png)
 ![image](./images/critic_details.png)
 - batch size is 32
 - Input of the image branch is previous 4 moments and current 64x64 depth images
