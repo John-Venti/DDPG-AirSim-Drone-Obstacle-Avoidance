@@ -2,7 +2,7 @@
 Using DDPG and ConvLSTM to control a drone to avoid obstacle in AirSim
 
 This project is developed based on [Microsoft-Airsim](https://github.com/microsoft/AirSim), achieving obstacle avoidance in height direction.
-
+![image](./images/demo.png)
 # Requirements
 python == 3.6.2
 
